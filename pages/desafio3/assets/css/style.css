@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.encabezado{
+    background-color: #000000;
+}
+
+.encabezado h1{
+    font-family: 'Raleway';
+    font-weight: normal;
+    font-size: 50px;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 7px;
+}
+
+.encabezado img{
+    width: 100%;
+    height: 100%;
+}
+
+.description{
+    background-color: #000000;
+}
+
+.imagen1 img{
+    width: 399px;
+    height: 237px;
+}
+
+.imagen1{
+    display: inline-block;
+    width: 44%;
+    padding: 1%;
+    text-align: center;
+}
+
+.parraf1 {
+    padding-bottom: 20px;
+    display: inline-block;
+    padding-left: 150px;
+}
+
+.parraf2 {
+    padding-left: 150px;
+}
+
+.parrafo{
+    font-family: 'Raleway';
+    font-weight: lighter;
+    color: #ffffff;
+    font-size: 16px;
+    display: inline-block;
+    width: 44%;
+    padding-bottom: 50px;
+    padding-top: 0;
+}
+
+.galeria{
+    text-align: center;
+    background-color: #000000;
+    padding: 3%;
+}
+
+.imagen2{
+    text-align: right;
+    display: inline-block;
+    width: 33%;
+}
+
+.imagen3{
+    display: inline-block;
+    text-align: center;
+    width: 33%;
+}
+
+.imagen4{
+    text-align: left;
+    display: inline-block;
+    width: 33%;
+}
+
+.imagen2 img{
+    width: 316px;
+    height: 202px;
+}
+
+.imagen3 img{
+    width: 316px;
+    height: 202px;
+}
+
+.imagen4 img{
+    width: 316px;
+    height: 202px;
+}
+
+.caract{
+    background-color: #1e1a13;
+    color: #ffffff;
+    text-align: center;
+    padding: 5%;
+}
+
+.caract h2{
+    font-family: 'Raleway';
+    font-size: medium;
+    font-size: 40px;
+}
+
+.caracttext{
+    display: inline-block;
+    width: 32%;
+}
+
+.caracttext p{
+    font-family: 'Raleway';
+    font-weight: medium;
+    font-size: 25px;
+    padding: 5%;
+}
+
+.iconos{
+    padding-top: 5%;
+}
+
+.pie{
+    padding: 2%;
+    background-color: #1e1a13;
+}
+
+.pie h3{
+    text-align: center;
+    font-family: 'Raleway';
+    color: #ffffff;
+}
+
+.pie a{
+    color: #ffffff;
+}
